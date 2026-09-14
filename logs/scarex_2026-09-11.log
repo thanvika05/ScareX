@@ -1,0 +1,17 @@
+2026-09-11 09:47:08 - INFO - SQLite Database initialized.
+2026-09-11 09:47:24 - INFO - [MONITORING_SESSION_END] Species: Tomato, Conf: 1.0, Alarm: None, Status: Processed 7 frames. Detections: 0 fully ripened, 0 green, 4 half ripened., Source: 0
+2026-09-11 09:47:52 - INFO - SQLite Database initialized.
+2026-09-11 10:04:16 - INFO - SQLite Database initialized.
+2026-09-11 10:05:07 - INFO - [MONITORING_SESSION_END] Species: Tomato, Conf: 1.0, Alarm: None, Status: Processed 47 frames. Detections: 25 fully ripened, 115 green, 110 half ripened., Source: dataset/videos/tomato_farm.mp4
+2026-09-11 10:05:34 - INFO - SQLite Database initialized.
+2026-09-11 10:05:51 - INFO - [MONITORING_SESSION_END] Species: Tomato, Conf: 1.0, Alarm: None, Status: Processed 9 frames. Detections: 0 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-11 10:06:00 - INFO - SQLite Database initialized.
+2026-09-11 10:06:19 - INFO - [MONITORING_SESSION_END] Species: Tomato, Conf: 1.0, Alarm: None, Status: Processed 15 frames. Detections: 13 fully ripened, 36 green, 40 half ripened., Source: dataset/videos/tomato_farm.mp4
+2026-09-11 10:07:19 - INFO - SQLite Database initialized.
+2026-09-11 10:07:20 - ERROR - Error initializing GPIO: Unable to load any default pin factory!. Falling back to Mock.
+2026-09-11 10:18:02 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-11 10:18:14 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 8 frames. Detections: 8 fully ripened, 21 green, 24 half ripened., Source: dataset/videos/tomato_farm.mp4
+2026-09-11 10:18:24 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-11 10:18:38 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 7 frames. Detections: 0 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-11 10:19:02 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-11 10:59:28 - INFO - SQLite Database initialized with tomato monitoring columns.

@@ -1,0 +1,29 @@
+2026-09-14 00:28:32 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:29:28 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:30:00 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 259 frames. Detections: 248 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-14 00:39:57 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:41:08 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:42:24 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Duration: 2.7s, Total: 13, Source: DASHBOARD
+2026-09-14 00:53:35 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:56:46 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 00:59:40 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 01:02:42 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 01:04:37 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 09:52:14 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 12:37:00 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 12:37:52 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 515 frames. Detections: 0 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-14 12:46:50 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 12:47:18 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 251 frames. Detections: 0 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-14 12:48:13 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 12:48:44 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 290 frames. Detections: 0 fully ripened, 0 green, 0 half ripened., Source: 0
+2026-09-14 18:54:23 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 18:55:01 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 374 frames. Detections: 58 fully ripened, 0 green, 499 half ripened., Source: 0
+2026-09-14 19:48:00 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:48:47 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:51:58 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:52:19 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:53:17 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 599 frames. Row Data: [{"row_number": 1, "total": 2, "counts": {"0": 0, "1": 1, "2": 1}, "green_pct": 50.0, "half_pct": 50.0, "full_pct": 0.0, "priority": "LOW"}, {"row_number": 2, "total": 3, "counts": {"0": 2, "1": 1, "2": 0}, "green_pct": 0.0, "half_pct": 33.3, "full_pct": 66.7, "priority": "HIGH"}], Source: 0
+2026-09-14 19:53:28 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:53:40 - INFO - SQLite Database initialized with tomato monitoring columns.
+2026-09-14 19:54:15 - INFO - [MONITORING_SESSION_END] Species: Tomato, Status: Processed 349 frames. Row Data: [{"row_number": 1, "total": 3, "counts": {"0": 0, "1": 2, "2": 1}, "green_pct": 33.3, "half_pct": 66.7, "full_pct": 0.0, "priority": "LOW"}, {"row_number": 2, "total": 12, "counts": {"0": 4, "1": 4, "2": 4}, "green_pct": 33.3, "half_pct": 33.3, "full_pct": 33.3, "priority": "MEDIUM"}, {"row_number": 3, "total": 4, "counts": {"0": 2, "1": 2, "2": 0}, "green_pct": 0.0, "half_pct": 50.0, "full_pct": 50.0, "priority": "HIGH"}], Source: dataset/videos/tomato_farm.mp4
+2026-09-14 20:16:30 - INFO - SQLite Database initialized with tomato monitoring columns.
